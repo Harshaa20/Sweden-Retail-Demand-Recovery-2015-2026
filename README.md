@@ -2,7 +2,7 @@
 
 ## Power BI Dashboard
 
-[Dashboard link to be added once published]
+https://app.powerbi.com/groups/me/reports/469a2114-39e9-450d-aa63-f4ee0993975e/c6a1449fe9de48a529c2?experience=power-bi
 
 The dashboard covers:
 
