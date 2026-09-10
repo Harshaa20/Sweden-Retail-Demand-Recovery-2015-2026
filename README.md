@@ -1,4 +1,5 @@
 # Swedish Retail Demand Recovery: Post-Inflation Volume Forecasting by Category (2015–2026)
+Swedish retail demand recovery is category-specific, not broad-based. Furniture and sports remain materially below pre-inflation benchmarks while medical and cosmetic retail stands 49% above. This project delivers a six-month forward demand forecast by category using official SCB data, Holt-Winters modelling, and out-of-sample validation.
 
 ## Power BI Dashboard
 
