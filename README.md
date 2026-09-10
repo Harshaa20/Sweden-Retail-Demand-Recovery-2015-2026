@@ -130,7 +130,6 @@ swedish-retail-demand-recovery/
 │ └── swedish_retail_demand_recovery.pbix
 │
 ├── outputs/
-│ ├── figures/ # Python analytical visualisations
 │ └── forecasts/ # Final forecast CSV outputs
 │
 └── requirements.txt
